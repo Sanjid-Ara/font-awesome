@@ -1,0 +1,85 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    background-color: black;
+    color: green;
+    text-align: center;
+    font-size: 70px;
+    padding: 5px 5px;
+    text-shadow: -10px 1px 2px yellow;
+}
+
+h2 {
+    background-color: brown;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    padding: 5px 5px;
+    text-shadow: -10px 2px 5px bisque;
+}
+
+.class-1 {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+a {
+    background-color: black;
+    color: orange;
+    font-size: 100px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: -10px 20px 10px orange;
+}
+
+.class-2 {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.class-3 {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.class-2 a {
+    background-color: black;
+    color: blue;
+    font-size: 100px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 10px 20px 10px lightblue;
+}
+
+.class-3 a {
+    background-color: black;
+    color: darkgreen;
+    font-size: 100px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 1px 2px 10px lightgreen;
+}
+
+.box {
+    background-color: black;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 5px 2px green;
+    width: 500px;
+    margin: auto;
+    border: 10px double saddlebrown;
+}
